@@ -8,3 +8,4 @@ Projet sur les permissions et la gestion des utilisateurs - Holberton School
 * `7-everybody` : Adds execution permission to the owner, the group owner and the other users, to the file hello without using commas.
 * `8-James_Bond` : Sets the permissions of the file hello to 007 (no permissions for owner and group, all permissions for others).
 * `9-John_Doe` : Sets the permissions of the file hello to 753 (rwxr-x-wx).
+* `10-mirror_permissions` : Sets the mode of the file hello the same as olleh's mode using --reference.
