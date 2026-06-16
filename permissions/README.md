@@ -10,3 +10,4 @@ Projet sur les permissions et la gestion des utilisateurs - Holberton School
 * `9-John_Doe` : Sets the permissions of the file hello to 753 (rwxr-x-wx).
 * `10-mirror_permissions` : Sets the mode of the file hello the same as olleh's mode using --reference.
 * `11-directories_permissions` : Adds execute permission to all subdirectories of the current directory for all users, without changing regular files, using chmod -R a+X *.
+* `12-directory_permissions` : Creates a directory called my_dir with permissions 751 in the working directory.
