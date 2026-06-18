@@ -1,3 +1,3 @@
-# Init files, variables and expansions
+# Shell Init Files, Variables and Expansions
 
-Ce projet contient des scripts d'introduction au Shell Bash.
+Ce projet contient des scripts d'apprentissage du Shell Bash.
